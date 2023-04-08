@@ -1,0 +1,23 @@
+{
+  "name": "sit323_737-2023-t1-prac4p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KNSHQ/sit323_737-2023-t1-prac4p.git"
+  },
+  "author": "Kanishk Rajvanshi (S222486026)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KNSHQ/sit323_737-2023-t1-prac4p/issues"
+  },
+  "homepage": "https://github.com/KNSHQ/sit323_737-2023-t1-prac4p#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "winston": "^3.8.2"
+  }
+}
